@@ -1,2 +1,2 @@
-# HTML-Note
-HTML-Note
+# Note
+包含HTML,CSS,GIT,以及Browser的基本语法笔记以及知识点等，陆续更新...
